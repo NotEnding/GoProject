@@ -1,0 +1,13 @@
+.idea/
+.DS_Store
+
+
+# Binaries for programs and plugins
+
+# Test binary, built with `go test -c`
+
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+
+
+# Dependency directories (remove the comment below to include it)
